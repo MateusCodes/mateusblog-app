@@ -1,4 +1,4 @@
-# ECommerceApp - Buy products
+# Blog - NextJS & TailwindCSS & GraphCMS(Hygraph)
 
 [Check project](https://mateusblog-app.vercel.app/)
 
